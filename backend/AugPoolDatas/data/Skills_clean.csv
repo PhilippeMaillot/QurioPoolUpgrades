@@ -1,0 +1,123 @@
+skill_id;cost;name
+6;15;Critical Eye
+22;12;Handicraft
+25;9;Protective Polish
+46;6;Load Shells
+93;3;Flinch Free
+7;15;Critical Boost
+2;12;Agitator
+87;9;Mushroomancer
+35;6;Guard
+42;3;Stamina Thief
+8;15;Weakness Exploit
+3;12;Peak Performance
+26;9;Mind's Eye
+36;6;Guard Up
+13;3;Fire Attack
+12;15;Master's Touch
+4;12;Resentment
+11;9;Critical Element
+18;6;Poison Attack
+14;3;Water Attack
+23;15;Razor Sharp
+5;12;Resuscitate
+27;9;Ballistics
+19;6;Paralysis Attack
+15;3;Ice Attack
+24;15;Spare Shot
+116;12;Coalescence
+38;9;Critical Draw
+20;6;Sleep Attack
+16;3;Thunder Attack
+48;15;Normal/Rapid Up
+9;12;Latent Power
+30;9;Focus
+21;6;Blast Attack
+17;3;Dragon Attack
+49;15;Pierce Up
+10;12;Maximum Might
+31;9;Power Prolonger
+32;6;Marathon Runner
+43;3;Affinity Sliding
+50;15;Spread Up
+84;12;Good Luck
+37;9;Offensive Guard
+33;6;Constitution
+44;3;Horn Maestro
+51;15;Ammo Up
+131;12;Burst
+61;9;Earplugs
+34;6;Stamina Surge
+56;3;Defense Boost
+55;15;Rapid Fire Up
+126;12;Tune-Up
+91;9;Heroics
+39;6;Punishing Draw
+57;3;Divine Blessing
+1;15;Attack Boost
+107;12;Rapid Morph
+108;9;Hellfire Cloak
+40;6;Quick Sheathe
+58;3;Recovery Up
+132;15;Guts
+45;12;Artillery
+104;9;Wirebug Whisperer
+41;6;Slugger
+59;3;Recovery Speed
+119;12;Sneak Attack
+124;9;Charge Master
+47;6;Special Ammo Boost
+62;3;Windproof
+112;12;Blood Rite
+125;9;Foray
+54;6;Steadiness
+72;3;Blight Resistance
+117;12;Bloodlust
+127;9;Grinder (S)
+60;6;Speed Eating
+73;3;Poison Resistance
+136;12;Buildup Boost
+128;9;Bladescale Hone
+63;6;Tremor Resistance
+74;3;Paralysis Resistance
+140;12;Frostcraft
+122;9;Redirection
+64;6;Bubbly Dance
+75;3;Sleep Resistance
+141;12;Dragon Conversion
+130;9;Element Exploit
+65;6;Evade Window
+76;3;Stun Resistance
+120;9;Adrenaline Rush
+66;6;Evade Extender
+77;3;Muck Resistance
+114;9;Furious
+81;6;Partbreaker
+78;3;Blast Resistance
+134;9;Status Trigger
+105;6;Wall Runner
+85;3;Speed Sharpening
+103;9;Dragonheart
+106;6;Counterstrike
+88;3;Item Prolonger
+118;6;Defiance
+89;3;Wide-Range
+145;9;Strife
+52;6;Reload Speed
+90;3;Free Meal
+139;9;Powder Mantle
+53;6;Recoil Down
+92;3;Fortify
+138;9;Wind Mantle
+100;6;Chameleos Blessing
+96;3;Hunger Resistance
+143;9;Frenzied Bloodlust
+101;6;Kushala Blessing
+97;3;Leap of Faith
+102;6;Teostra Blessing
+98;3;Diversion
+121;6;Embolden
+99;3;Master Mounter
+135;6;Intrepid Heart
+123;3;Spiribird's Call
+129;3;Wall Runner (Boost)

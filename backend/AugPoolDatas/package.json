@@ -1,0 +1,21 @@
+{
+  "name": "augmentation_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon importAll.js",
+    "seed:skills": "node seedSkills.js",
+    "seed:armours": "node seedArmours.js",
+    "seed:augmentations": "node seedAugmentations.js",
+    "seed:all": "node importAll.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.0",
+    "mysql2": "^3.0.0",
+    "sequelize": "^6.32.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
